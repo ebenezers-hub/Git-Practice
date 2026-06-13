@@ -6,3 +6,5 @@ Learning some new skills as an engineering
 
 Reviewing my studies from the previous day
 
+Git helps me track changes in my project
+
